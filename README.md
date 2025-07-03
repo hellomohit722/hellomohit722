@@ -1,6 +1,22 @@
-# 💫 About Me:
-👋 Hi there, I'm Mohit!<br>I'm a passionate Software Engineer with a strong foundation in full-stack mern development, data structures. I love building scalable web applications, exploring backend technologies, and continuously learning through hands-on coding and real-world problem solving.<br><br> DSA Playground: Code-driven solutions to classic algorithms and Leetcode problems.<br><br>I'm deeply interested in building things from scratch, whether it’s a UI component or a backend API. I love exploring how things work under the hood and strive to write clean, maintainable code.
+<p align="center">
+  <img src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif" alt="Coding Background" width="400"/>
+</p>
 
+<h1 align="center" style="color: #00bfff;">Hi 👋, I'm Mohit </h1>
+<h3 align="center" style="color: #f8f8f2;">MCA Student @ NIT Jamshedpur | Aspiring SDE | Web & AI Developer</h3>
+
+
+---
+
+### 👨‍💻 About Me:
+- 🎓 Currently pursuing **MCA at NIT Jamshedpur**  
+- 🚀 Build : **BlogAI** – A centralized platform for students to post, comment and view Blogs Of Computer Science  
+- 🌐 Hosting backends, integrating **MongoDB**, **Cloudinary**,**JWT Authentication & Authorization**  
+- 📫 Reach me at: **hllomohit722@gmail.com**  
+- 🧠 Fun Fact: `while(alive) { learn(); build(); grow(); }`  
+- 🗂️ Portfolio: [Link](https://glittering-druid-74b5d1.netlify.app/)
+
+---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mohit-singh-367946201/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Mohit62864265) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hllomohit722@gmail.com) 
